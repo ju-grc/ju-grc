@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, Moi c'est Julien</h1>
 
-💻 À propos de moi
+<h3>💻 À propos de moi</h3>
 
 Étudiant en BUT Informatique, passionné par le développement web et en constante évolution. Je me spécialise dans la création et l'intégration d'applications web modernes et efficaces.
 
@@ -8,11 +8,11 @@
 
 ##
 
-🛠️ Technologies & Outils
+<h3>🛠️ Technologies & Outils</h3>
 
 🔹 Langages : PHP, JavaScript, SQL, PL/SQL, HTML, CSS
 
-🔹 Frameworks & Librairies : Vue.js (débutant)
+🔹 Frameworks & Librairies : Vue.js (En apprentisage)
 
 🔹 Base de données : SQL, PL/SQL
 
@@ -20,7 +20,7 @@
 
 ##
 
-📈 Projets & Contributions
+<h3>📈 Projets & Contributions</h3>
 
 Retrouvez mes projets et contributions sur mes dépôts GitHub !
 
@@ -28,7 +28,7 @@ Retrouvez mes projets et contributions sur mes dépôts GitHub !
 
 ##
 
-📫 Me contacter
+<h3>📫 Me contacter</h3>
 
 📧 Email : julien.garcia05@etu.umontpellier.fr
 
