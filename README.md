@@ -34,6 +34,6 @@ Retrouvez mes projets et contributions sur mes dépôts GitHub !
 
 🔗 https://www.linkedin.com/in/julien-garcia-b31256264
 
-🔗 https://ju-grc.github.io/portfolio/web/
+🔗 https://ju-grc.github.io/portfolio/web/ (En cours de création 🚧)
 
 🚀 Toujours curieux d'apprendre et d'échanger sur de nouvelles technologies !
