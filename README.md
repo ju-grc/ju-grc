@@ -10,7 +10,7 @@
 
 <h3>🛠️ Technologies & Outils</h3>
 
-🔹 Langages : PHP, JavaScript, SQL, PL/SQL, HTML, CSS
+🔹 Langages : PHP, JavaScript, Java, HTML, CSS
 
 🔹 Frameworks & Librairies : Vue.js (En apprentisage)
 
